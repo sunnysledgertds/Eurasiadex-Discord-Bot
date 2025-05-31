@@ -30,7 +30,7 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 
 # 1. Usage Agreement
 
-By using Eurasiadex, you agree to the rules and terms, if not, please refrain from using the bot. Discord Servers are responsible for their memebers, and access may be revoked if it's demmed necessary.
+By using Eurasiadex, you agree to the rules and terms, if not, please refrain from using the bot. Discord Servers are responsible for their members, and access may be revoked if it's demmed necessary.
 
 # 2. User Conduct
 
@@ -40,7 +40,7 @@ By using Eurasiadex, you agree to the rules and terms, if not, please refrain fr
 
 • No impersonation: Do not impersonate other users, our moderators, or any other entity.
 
-# 3. Bot Functionality:
+# 3. Bot Functionality
 Eurasiadex allows you to catch, exchange and collect virtual eurasiaballs/ The primary purpose of the bot is entertainment and not intended for real-world transactions.
 
 # 4. Trading Guidelines
