@@ -39,3 +39,13 @@ By using Eurasiadex, you agree to the rules and terms, if not, please refrain fr
 • "Farming": Any "farming" techniques is forbidden.
 
 • No impersonation: Do not impersonate other users, our moderators, or any other entity.
+
+# 3. Bot Functionality:
+Eurasiadex allows you to catch, exchange and collect virtual eurasiaballs/ The primary purpose of the bot is entertainment and not intended for real-world transactions.
+
+# 4. Trading Guidelines
+Trade and donations are final. We won't reverse trades unless it is absolutely necessary.
+
+"Cross Trading": An act of trading Eurasiadex items for items outside the bot, be it money, another game's currency etc.. is strictly forbidden.
+
+# 5. 
