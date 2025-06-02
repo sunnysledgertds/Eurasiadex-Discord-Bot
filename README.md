@@ -9,7 +9,7 @@ If you have any questions, you may join our official server [here](https://disco
 # Supporting
 You may support the Ballsdex creator on his [Pateron](https://patreon.com/retke). As for supporting us (Eurasiadex Team), you can join our discord server listed above.
 
-# Eurasiadex's Terms Of Service and Rules
+# Eurasiadex's Terms Of Service and Rulesm (WIP, For now, refer to Ballsdex's Terms Of Service and Privacy Policy.)
 By using Eurasiadex, you indicate your acceptance of these terms and rules.
 # Glossary
 • Eurasiaballs - Collectibles of the dex.
