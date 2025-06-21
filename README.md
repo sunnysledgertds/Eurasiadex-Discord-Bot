@@ -1,4 +1,4 @@
-s# Eurasiadex-Discord-Bot
+# Eurasiadex-Discord-Bot
 Eurasiadex is an instance of [Ballsdex](https://github.com/Ballsdex-Team/BallsDex-DiscordBot), an open-source discord bot licensed under the MIT license.
 
 Eurasiadex is a bot for collecting countryballs on Discord. You can also exchange them with your friends.
