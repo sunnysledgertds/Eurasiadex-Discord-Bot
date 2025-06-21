@@ -9,7 +9,7 @@ If you have any questions, you may join our official server [here](https://disco
 # Supporting
 You may support the Ballsdex creator on his [Pateron](https://patreon.com/retke). As for supporting us (Eurasiadex Team), you can join our discord server listed above.
 
-# Eurasiadex's Terms Of Service and Rules. (WIP, For now, refer to Ballsdex's Terms Of Service and Privacy Policy.)
+# Eurasiadex's Terms Of Service and Rules.
 By using Eurasiadex, you indicate your acceptance of these terms and rules.
 # Glossary
 • Eurasiaballs - Collectibles of the dex.
@@ -44,7 +44,7 @@ By using Eurasiadex, you agree to the rules and terms, if not, please refrain fr
 • No impersonation: Do not impersonate other users, our moderators, or any other entity.
 
 # 3. Bot Functionality
-Eurasiadex allows you to catch, exchange and collect virtual eurasiaballs/ The primary purpose of the bot is entertainment and not intended for real-world transactions.
+Eurasiadex allows you to catch, exchange and collect virtual eurasiaballs. The primary purpose of the bot is entertainment and not intended for real-world transactions.
 
 # 4. Trading Guidelines
 Trade and donations are final. We won't reverse trades unless it is absolutely necessary.
@@ -54,7 +54,7 @@ Trade and donations are final. We won't reverse trades unless it is absolutely n
 # 5. Privacy and Data
 Eurasiadex collects minimal user data only necessary for its functionality. we DO NOT share this data with third parties.
 Do not share personal information (Passwords, addresses, finacial details etc...) through the bot. 
-You might check the Privacy Policy for more information about how we collect your data. It can be found below the Terms Of Service in this README.
+You may check the Privacy Policy for more information about how we collect your data. It can be found below the Terms Of Service in this README.
 
 # 6. Moderation
 The bot administrators and moderators have the right to enforce these rules and take appropriate actions against rule violators. These actions may include warnings, temporary bans, permanent bans and/or blacklisted from using the bot.
@@ -65,7 +65,7 @@ Violation of bot involving collectible items may result in deletion or removal o
 The Eurasiadex team is not responsible for any loss, damage or inconvenience caused by the bot. Use the bot at your own risk.
 
 # 8. Changes to Terms and Rules/Terms and Service
-Terms of service and rules might be changed/updated at any time, Users will be notified of changes. Continued use of the bot implys you agree to the modified terms.
+Terms of service and rules might be changed/updated at any time, Users will be notified of changes. Continued use of the bot implies you agree to the modified terms.
 
 # 9. Availability
 Eurasiadex is provided as-is. There are no guarantees that it will be available in the future, and its purpose or availability may be changed at any time.
