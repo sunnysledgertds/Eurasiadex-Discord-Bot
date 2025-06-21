@@ -154,7 +154,7 @@ The bot has access to the content of messages but is used solely for the purpose
 # How the data is stored
 All persistent data is stored on a PostgreSQL server, running on a server hosted by Hetzner.
 
-Interaction between the bot and the database server is exclusively local using (Tortoise ORM.)[https://github.com/tortoise/tortoise-orm]
+Interaction between the bot and the database server is exclusively local using [Tortoise ORM.](https://github.com/tortoise/tortoise-orm)
 
 # Access to the data
 The only people allowed to access the data is sunnysledgertds.
@@ -168,4 +168,4 @@ You may request a copy of your personal data. To request one, use /player export
 
 For the deletion of your personal data, use /player delete.
 
-You may contact sunnysledgertds for more details. (on Discord, you can find me on the (Discord Server)[https://discord.gg/gDTJbCN6uB]
+You may contact sunnysledgertds for more details. (on Discord, you can find me on the [Discord Server](https://discord.gg/gDTJbCN6uB))
